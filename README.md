@@ -18,7 +18,9 @@ The following functionality is completed:
 ## Video Walkthrough
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="Zo1WnyC"><a href="https://imgur.com/Zo1WnyC">Link to the imgur post</a></blockquote>
-
+! [https://github.com/aishasalim/codepath-web-102-pre-work/assets/87562264/b4986274-0012-43e7-9577-9dbcff104d6d
+](https://github.com/aishasalim/codepath-web-102-pre-work/assets/87562264/b4986274-0012-43e7-9577-9dbcff104d6d
+)
 ## License
 
     Copyright [2023] [CodePath]
