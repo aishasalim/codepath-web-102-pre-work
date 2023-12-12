@@ -19,7 +19,7 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://imgur.com/a/Q5COyAS.gif](https://imgur.com/a/Q5COyAS.gif)' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="Zo1WnyC"><a href="https://imgur.com/Zo1WnyC">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## License
 
