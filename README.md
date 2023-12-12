@@ -17,9 +17,7 @@ The following functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="Zo1WnyC"><a href="https://imgur.com/Zo1WnyC">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="Zo1WnyC"><a href="https://imgur.com/Zo1WnyC">Link to the imgur post</a></blockquote>
 
 ## License
 
